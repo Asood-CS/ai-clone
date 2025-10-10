@@ -1,5 +1,5 @@
 # Meet my AI Twin
-A digital avatar that looks and sounds just like me. Users can prompt this clone to speak any appropriate message, to help spread awareness on the complexity and nuance of deepfake technology that exists today. 
+A digital avatar that looks and sounds just like me. Users can prompt this clone to say anything they desire (though inputs are later censored to ensure appropriate content outputs). Developed to help spread awareness on the complexity and nuance of deepfake technology that exists today. 
 
 ## Demo
 Click on the video below to see my clone live in action. Specially recommended for Pink Floyd fans 🎸:
