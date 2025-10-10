@@ -37,6 +37,8 @@ ai-clone/
 │   ├── Pink_Floyd.mp4
 │   ├── Star_Wars.mp4       
 │   └── reference_image.jpg
+├─ .gitignore
+├─ .streamlit/config.toml
 └── README.md
 ```
 
