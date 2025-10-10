@@ -1,0 +1,7 @@
+streamlit
+streamlit-modal
+requests
+dropbox
+python-dotenv
+elevenlabs
+openai
