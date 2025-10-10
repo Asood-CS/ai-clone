@@ -3,19 +3,10 @@ A digital avatar that looks and sounds just like me. Users can prompt this clone
 
 ## 🎬 Demo
 
-<table align="center">
-<tr>
-<td align="center">
 
-<!-- Inline playable video for GitHub and web preview -->
-<video src="samples/Pink_Floyd.mp4" controls width="600" style="border-radius:16px;box-shadow:0px 0px 10px rgba(0,0,0,0.2);"></video>
+https://github.com/user-attachments/assets/1715745d-7579-4273-abde-3b62ca24a59f
 
-<br>
-<em>↑ Watch my AI twin speak in real time (1.8 s demo clip)</em>
 
-</td>
-</tr>
-</table>
 
 If your GitHub page doesn't render `<video>` previews (some mobile or dark-mode clients),  
 you can also [▶️ watch the same demo here](samples/Pink_Floyd.mp4).
