@@ -1,0 +1,23 @@
+[theme]
+base="light"
+
+# --- Accent colors ---
+primaryColor="#0F52BA"           
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F5F6FA"
+textColor="#111111"
+font="sans serif"                
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+[logger]
+level = "error"
