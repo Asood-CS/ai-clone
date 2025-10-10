@@ -1,2 +1,9 @@
-# ai-clone
-An Artificial Intelligence (AI) clone of myself used to spread awareness on the relative ease of creating deepfake content. A Python Streamlit app where users type a prompt and watch as my AI Clone (with video and voice imitation) speaks their input text in real time.
+# Meet my AI Twin
+A digital avatar that looks and sounds just like me. Users can prompt this clone to speak any appropriate message, to help spread awareness on the complexity and nuance of deepfake technology that exists today. 
+
+
+# Security
+- User prompts are censored by AI before video synthesis to filter out inappropriate content
+- Videos output on web app are non-downloadable
+- Secret keys are obfuscated; samples are given in ```.env.example```
+
