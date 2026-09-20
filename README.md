@@ -1,4 +1,4 @@
-# Meet my AI Twin
+# DeepMe - Meet my AI Twin
 A digital avatar that looks and sounds just like me. Users can prompt this clone to say anything they desire (though inputs are later censored to ensure appropriate content outputs). Developed to help spread awareness on the complexity and nuance of deepfake technology that exists today. 
 
 ## Demo
